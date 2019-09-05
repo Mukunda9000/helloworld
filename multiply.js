@@ -1,3 +1,0 @@
-funtion multiply(a,b){
-
-}

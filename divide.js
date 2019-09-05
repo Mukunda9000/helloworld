@@ -1,3 +1,0 @@
-funtion div(a,b){
-
-}
